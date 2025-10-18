@@ -27,7 +27,6 @@ I specialize in **deep learning, computer vision, and scalable web applications*
 ---
 
 ### 🎓 Education
-- **PhD in Computer Science** – Federal University of Uberlândia (ongoing)  
 - **MSc in Computer Science** – Federal University of Uberlândia  
 - **BSc in Computer Science** – Henry Christophe Campus, UEH (Haiti)
 
